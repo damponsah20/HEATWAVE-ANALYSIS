@@ -1,4 +1,6 @@
 This script provide insights into calculating heatwave threshold, occurrence and magnitude over some Selected towns in Ghana's sudan and Guinea savannah agro-climatic zones
+
+
 CHARACTERISTICS AND LONG TERM TRENDS OF HEATWAVES OVER GHANA (selected some towns in Ghanas' Sudan and Guinea Savannah agro-climatic zones) using outputs from Representative Concentration Pathway (RCP 2.6, 8.5) and Ghana Meteorological Agency.
 Results indicate the intensification of more heatwave events (2025 - 2054) , with mean magnitudes increasing by 0.5˚C to 2.5˚C.
 The frequency of heatwave days is projected to rise by 8.1% to 58% annually. 
