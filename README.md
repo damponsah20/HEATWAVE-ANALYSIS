@@ -6,4 +6,7 @@ Results indicate the intensification of more heatwave events (2025 - 2054) , wit
 The frequency of heatwave days is projected to rise by 8.1% to 58% annually. 
 Our findings suggest a significant intensification of heatwaves in the selected regions, with potential severe impacts on ecosystems and human health. This underscores the urgent need for enhanced planning, early warning systems and adaptive measures! . 
 We recommend prioritizing heat-resilient infrastructure and community-based adaptation strategies to safeguard vulnerable populations in Ghana! .
-Other papers / reasearch indicate the intensification of heatwaves events in the future 👀 , Climate Science is fun💟
+Other papers / reasearch indicate the intensification of heatwav events in the future 👀 , Climate Science is fun💟
+
+
+A paper on the prevalence and characteristics of heatwaves in Northern Ghana is under review 
