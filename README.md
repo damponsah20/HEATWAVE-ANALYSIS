@@ -11,4 +11,4 @@ We recommend prioritizing heat-resilient infrastructure and community-based adap
 Other papers / reasearch indicate the intensification of heatwav events in the future 👀 , Climate Science is fun💟
 
 
-A paper on the prevalence and characteristics of heatwaves in Northern Ghana is under review 
+A paper on the prevalence and characteristics of heatwaves in Northern Ghana is currently under review 
