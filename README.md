@@ -12,3 +12,6 @@ Other papers / reasearch indicate the intensification of heatwav events in the f
 
 
 A paper on the prevalence and characteristics of heatwaves in Northern Ghana is currently under review 
+
+
+We are now looking at heatwave characteristics over the agro-ecological zones in Ghana
